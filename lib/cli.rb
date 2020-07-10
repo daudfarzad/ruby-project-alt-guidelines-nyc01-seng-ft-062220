@@ -12,7 +12,7 @@ class CommandLineInterface
 
 
         # def delete 
-        #     puts "Here is the list of available parking spots:" 
+        #     puts "** Leaving so soon? **:" 
         #     available.map do |student|
         #       puts " #{subject.id}, #{student}"
         #     end
@@ -30,7 +30,7 @@ class CommandLineInterface
         end 
         
         Def delete_student
-            puts "** Leaving so soon?**"
+            puts "** Leaving so soon? **"
             puts "---Enter student name"
             self.
         
